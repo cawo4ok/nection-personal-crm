@@ -1,2 +1,6 @@
 # nection-personal-crm
-Personal crm for business contacts
+Personal CRM for business relations
+
+Nection is the best personal CRM to enhance your business relations.
+
+Download by link: https://nection.io
